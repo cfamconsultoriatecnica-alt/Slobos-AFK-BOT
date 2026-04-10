@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "bot123",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "bot123",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "survivalquad-fZ6A.aternos.me",
     "port": 64212,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
